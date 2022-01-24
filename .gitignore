@@ -48,6 +48,9 @@ ExportedObj/
 *.pdb.meta
 *.mdb.meta
 
+# Rider generated files
+.idea/
+
 # Unity3D generated file on crash reports
 sysinfo.txt
 
@@ -58,3 +61,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/ReadyPlayerMe.unitypackage.meta
+.vsconfig
